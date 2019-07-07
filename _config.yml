@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# basic options
+title: ESS1017 Computational Civilization and Artificial Intelligence
+author: Doh Kyung-Goo
+email: doh@hanyang.ac.kr
+description: Hanyang Unviersity ERICA Summer School
+twitter_username:
+github_username: Doggzone
+
+# Build settings
+markdown: kramdown
+theme: minima
