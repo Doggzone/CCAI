@@ -3,6 +3,9 @@ This course is to introduce basic concepts in the fields of computer science and
 ### Objectives
 This course is to help non-major students understand the core concepts of computer science and artificial intelligence, so that they can obtain the knowledge necessary to adopt computing technologies to their own specialty throughout their career development. 
 
+### Materials
+- https://course.elementsofai.com
+
 ### Lecture Plan
 
 #### 1. Introduction
