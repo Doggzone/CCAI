@@ -1,9 +1,6 @@
 HESS 2019 (Hanyang ERICA International Summer School), July 15~23, 2019
 
-This course is to introduce basic concepts in the fields of computer science and artificial intelligence by skimming through the history and underlying principles of each field, respectively. 
-
-### Objectives
-This course is to help non-major students understand the core concepts of computer science and artificial intelligence, so that they can obtain the knowledge necessary to adopt computing technologies to their own specialty throughout their career development. 
+The objective of this course is to help non-major students understand the core concepts of computer science and artificial intelligence, so that they can obtain the knowledge necessary to adopt computing technologies to their own specialty throughout their career development. 
 
 ### Lecture Part One
 
