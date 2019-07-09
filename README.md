@@ -7,6 +7,8 @@ The objective of this course is to help non-major students understand the core c
 #### Lecture Materials
 - [Computational Civilization](http://kwangkeunyi.snu.ac.kr/book-cs-leaflet.pdf)
 
+#### 0. History of Computing
+
 #### 1. The Birth of Computer
   - Universal Turing Machine
   - Boolean logic and switching circuits
