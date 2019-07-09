@@ -1,5 +1,4 @@
-Hanyang ERICA International Summer School (HESS 2019)
-- July 15~23, 2019
+HESS 2019 (Hanyang ERICA International Summer School), July 15~23, 2019
 
 This course is to introduce basic concepts in the fields of computer science and artificial intelligence by skimming through the history and underlying principles of each field, respectively. 
 
