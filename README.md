@@ -5,7 +5,7 @@ The objective of this course is to help non-major students understand the core c
 ### Lecture Part One
 
 #### Lecture Materials
-- [Computational Civilization](http://kwangkeunyi.snu.ac.kr/book-cs-leaflet.pdf)
+- [Deep Shift - 21 Ways Software Will Transform Global Society](http://www3.weforum.org/docs/WEF_GAC15_Deep_Shift_Software_Transform_Society.pdf)
 
 #### 0. History of Computing
 
