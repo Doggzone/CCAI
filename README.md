@@ -13,22 +13,24 @@ The objective of this course is to help non-major students understand the core c
   - Boolean logic and switching circuits
   - Invention of computing machine
 
-#### 2. Algorithm and Complexity
-  - Algorithm design methodology
-  - Classes of algorithm complexity
-  - Heuristic and randomized algorithms
-  - Quantum algorithms
+#### 2. Software
+  - Algorithm and Complexity
+    - Algorithm design methodology
+    - Classes of algorithm complexity
+    - Heuristic and randomized algorithms
+    - Quantum algorithms
+  - Language and Logic
+    - High-level programming languages
+    - Compiling and interpretation techniques
+    - Lambda calculus and Turing-completeness
+    - Types and program verification
 
-#### 3. Language and Logic
-  - High-level programming languages
-  - Compiling and interpretation techniques
-  - Lambda calculus and Turing-completeness
-  - Types and program verification
-
-#### 4. Human-Computer Symbiosis
+#### 3. Human-Computer Symbiosis
   - Improving human intelligence
   - Expanding human’s social instinct
   - Breaking time and space boundaries
+  
+#### 4. Deep Shift - How Software Transforms Global Society
 
 ### Lecture Part Two
 
