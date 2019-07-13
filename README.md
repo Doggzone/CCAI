@@ -54,12 +54,10 @@ The objective of this course is to help non-major students understand the core c
   - How neural networks are built
   - Advanced neural network techniques
 
-
 #### 6. Implications
   - About predicting the future
   - The societal implications of AI
   - Summary
-
 
 ### Lecturer
 - Name: [Doh Kyung-Goo](http://softopians.github.io/doggzone)
