@@ -15,15 +15,7 @@ The objective of this course is to help non-major students understand the core c
 
 #### 2. Software
   - Algorithm and Complexity
-    - Algorithm design methodology
-    - Classes of algorithm complexity
-    - Heuristic and randomized algorithms
-    - Quantum algorithms
   - Language and Logic
-    - High-level programming languages
-    - Compiling and interpretation techniques
-    - Lambda calculus and Turing-completeness
-    - Types and program verification
 
 #### 3. Human-Computer Symbiosis
   - Improving human intelligence
