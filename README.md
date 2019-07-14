@@ -6,9 +6,10 @@ The objective of this course is to help non-major students understand the core c
 
 #### Lecture Materials
 - [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
-- [Deep Shift - 21 Ways Software Will Transform Global Society](https://drive.google.com/file/d/1Tsm1MWfHr-9RJbX07kq6CvhoHToglNhT/view?usp=sharing)
 
-#### 1. The Birth of Computer
+#### 0. [History of Computing](https://drive.google.com/file/d/1S4nYXrIJ5es2rdmzBThVdum8yJcOLvSx/view?usp=sharing)
+
+#### 1. [The Birth of Computer](https://drive.google.com/file/d/1S7fQ-Ut4XNbRxwp6QyPXGempuHaoKkUI/view?usp=sharing)
   - Universal Turing Machine
   - Boolean logic and switching circuits
   - Invention of computing machine
@@ -22,7 +23,7 @@ The objective of this course is to help non-major students understand the core c
   - Expanding human’s social instinct
   - Breaking time and space boundaries
   
-#### 4. Deep Shift - How Software Transforms Global Society
+#### 4. [Deep Shift - How Software Transforms Global Society](https://drive.google.com/file/d/1Tsm1MWfHr-9RJbX07kq6CvhoHToglNhT/view?usp=sharing)
 
 ### Lecture Part Two
 
