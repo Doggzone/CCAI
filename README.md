@@ -5,9 +5,10 @@ The objective of this course is to help non-major students understand the core c
 ### Lecture Part One
 
 #### Lecture Materials
-- [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
+  - [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
 
 #### 0. [History of Computing](https://drive.google.com/file/d/1S4nYXrIJ5es2rdmzBThVdum8yJcOLvSx/view?usp=sharing)
+  - Reference: Walter Isaacson, [The Innovators - How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781442376229)
 
 #### 1. [The Birth of Computer](https://drive.google.com/file/d/1S7fQ-Ut4XNbRxwp6QyPXGempuHaoKkUI/view?usp=sharing)
   - Universal Turing Machine
@@ -23,12 +24,13 @@ The objective of this course is to help non-major students understand the core c
   - Expanding human’s social instinct
   - Breaking time and space boundaries
   
-#### 4. [Deep Shift - How Software Transforms Global Society](https://drive.google.com/file/d/1Tsm1MWfHr-9RJbX07kq6CvhoHToglNhT/view?usp=sharing)
+#### 4. How Software Transforms Global Society
+  - Reference: [Deep Shift - 21 Ways Software Will Transform Global Society](https://drive.google.com/file/d/1Tsm1MWfHr-9RJbX07kq6CvhoHToglNhT/view?usp=sharing)
 
 ### Lecture Part Two
 
 #### Lecture Materials
-- [Elements of AI](https://course.elementsofai.com)
+  - [Elements of AI](https://course.elementsofai.com)
 
 #### 1. What is AI?
   - How should we define AI?
