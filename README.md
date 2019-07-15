@@ -15,7 +15,7 @@ The objective of this course is to help non-major students understand the core c
   - Boolean logic and switching circuits
   - Invention of computing machine
 
-#### 2. [Software](https://drive.google.com/file/d/1uGxWpUgwok_GuxcA9ImaUl_7Op_mX5cd/view?usp=sharing)
+#### 2. [Software](https://drive.google.com/file/d/1ZtudKx-c0UitR0ewEr5SfZ9z_HjlwfM6/view?usp=sharing)
   - Algorithm and Complexity
   - Language and Logic
 
