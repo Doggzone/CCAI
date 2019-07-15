@@ -25,7 +25,7 @@ The objective of this course is to help non-major students understand the core c
   - Breaking time and space boundaries
   
 #### 4. How Software Transforms Global Society
-  - Reference: [Deep Shift - 21 Ways Software Will Transform Global Society](https://drive.google.com/file/d/1Tsm1MWfHr-9RJbX07kq6CvhoHToglNhT/view?usp=sharing)
+  - Reference: [Deep Shift - 21 Ways Software Will Transform Global Society](https://drive.google.com/file/d/1OcmowbQcXdjOjIWwGMUkpif4xi860zIt/view?usp=sharing)
 
 ### Lecture Part Two
 
