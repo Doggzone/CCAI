@@ -7,10 +7,10 @@ The objective of this course is to help non-major students understand the core c
 #### Lecture Materials
   - [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
 
-#### 0. [History of Computing](https://drive.google.com/file/d/1S4nYXrIJ5es2rdmzBThVdum8yJcOLvSx/view?usp=sharing)
+#### 0. [History of Computing](https://drive.google.com/file/d/1AvBNXQt1npY0UvPDEOB5ahudKjUy-dBe/view?usp=sharing)
   - Reference: Walter Isaacson, [The Innovators - How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781442376229)
 
-#### 1. [The Birth of Computer](https://drive.google.com/file/d/1S7fQ-Ut4XNbRxwp6QyPXGempuHaoKkUI/view?usp=sharing)
+#### 1. [The Birth of Computer](https://drive.google.com/file/d/1rDP7BK1x_-QigZbwB2r-zl_UQlhx9hDI/view?usp=sharing)
   - Universal Turing Machine
   - Boolean logic and switching circuits
   - Invention of computing machine
