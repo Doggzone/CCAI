@@ -19,7 +19,7 @@ The objective of this course is to help non-major students understand the core c
   - Algorithm and Complexity
   - Language and Logic
 
-#### 3. Human-Computer Symbiosis
+#### 3. [Human-Computer Symbiosis](https://drive.google.com/file/d/1BUfGOCqTWeiG-mgd7jL40p5Zsg-Z6FzW/view?usp=sharing)
   - Improving human intelligence
   - Expanding human’s social instinct
   - Breaking time and space boundaries
