@@ -32,7 +32,7 @@ The objective of this course is to help non-major students understand the core c
 #### Lecture Materials
   - [Elements of AI](https://course.elementsofai.com)
 
-#### 1. What is AI?
+#### 1. [What is AI?](https://drive.google.com/file/d/1vM-HeHNzn2UgEB2zBN5GlLtI11Uac716/view?usp=sharing)
   - How should we define AI?
   - Related fields
   - Philosophy of AI 
