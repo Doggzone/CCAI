@@ -37,7 +37,7 @@ The objective of this course is to help non-major students understand the core c
   - Related fields
   - Philosophy of AI 
 
-#### 2. [AI Problem Solving](https://drive.google.com/file/d/1wt0y19cjT-7I_4IvfJzmv-48ix2ym_oW/view?usp=sharing)
+#### 2. [AI Problem Solving](https://drive.google.com/file/d/1iNQ2pEoAidea3S7-t9IVckj7zR84Pcgp/view?usp=sharing)
   - Search and problem solving
   - Solving problems with AI
   - Search and games
