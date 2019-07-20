@@ -42,7 +42,7 @@ The objective of this course is to help non-major students understand the core c
   - Solving problems with AI
   - Search and games
 
-#### 3. [Real World AI](https://drive.google.com/file/d/14QaQLTCYIk296arWr4nI1fARaKoXoDs4/view?usp=sharing)
+#### 3. [Real World AI](https://drive.google.com/file/d/1QXF4ED7Hc-LZoXhGXJj7Y9SycWGSQiJH/view?usp=sharing)
   - Odds and probability
   - The Bayes rule - [Reference: Elementary Bayesian Inference](https://anesi.com/bayes.htm)
   - Naïve Bayes classification
