@@ -47,12 +47,12 @@ The objective of this course is to help non-major students understand the core c
   - The Bayes rule - [Reference: Elementary Bayesian Inference](https://anesi.com/bayes.htm)
   - Naïve Bayes classification
 
-#### 4. Machine Learning
+#### 4. [Machine Learning](https://drive.google.com/file/d/1EQTd3C6ZcLV8u9Hr5_-Rl-g8YZ6_UQA4/view?usp=sharing)
   - The types of machine learning
   - The nearest neighbor classifier
   - Regression
 
-#### 5. Neural Networks
+#### 5. [Neural Networks](https://drive.google.com/file/d/1JB-OpSCqSnNzfmNTEynsWUVBLjrQcpcQ/view?usp=sharing)
   - Neural network basics
   - How neural networks are built
   - Advanced neural network techniques
