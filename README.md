@@ -62,7 +62,7 @@ The objective of this course is to help non-major students understand the core c
   - The societal implications of AI
   - Summary
 
-### [Exan](https://forms.gle/cQjrL5ZHTXoitLDV7)
+### [Test](https://forms.gle/cQjrL5ZHTXoitLDV7)
 
 ### Lecturer
 - Name: [Doh Kyung-Goo](http://softopians.github.io/doggzone)
