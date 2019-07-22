@@ -52,17 +52,18 @@ The objective of this course is to help non-major students understand the core c
   - The nearest neighbor classifier
   - Regression
 
-#### 5. [Neural Networks](https://drive.google.com/file/d/1JB-OpSCqSnNzfmNTEynsWUVBLjrQcpcQ/view?usp=sharing)
+#### 5. [Neural Networks](https://drive.google.com/file/d/1WcOdVhoS3h2xww40i9XQGlMaBgCfIFxe/view?usp=sharing)
   - Neural network basics
   - How neural networks are built
   - Advanced neural network techniques
 
-#### 6. Implications
+#### 6. [Implications](https://drive.google.com/file/d/1n8YkDIYBlWD12zj84YPIk0sojc8MP2D-/view?usp=sharing)
   - About predicting the future
   - The societal implications of AI
   - Summary
 
-### [Test](https://forms.gle/vTbZEMu8UTCq2S2E8)
+### Exam
+  - Final Exam
 
 ### Further Study
 - [Andrew Ng's Lecture : Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
