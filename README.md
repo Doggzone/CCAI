@@ -69,4 +69,6 @@ The objective of this course is to help non-major students understand the core c
 - Email: doh@hanyang.ac.kr
 - Homepage : http://plasse.hanyang.ac.kr/~doh
 
+### Who
+
 ![photo20190722](https://i.imgur.com/SXkVoc6.jpg)
