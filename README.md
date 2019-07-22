@@ -64,6 +64,10 @@ The objective of this course is to help non-major students understand the core c
 
 ### [Test](https://forms.gle/vTbZEMu8UTCq2S2E8)
 
+### Further Study
+- [Andrew Ng's Lecture : Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
 ### Lecturer
 - Name: [Doh Kyung-Goo](http://softopians.github.io/doggzone)
 - Email: doh@hanyang.ac.kr
