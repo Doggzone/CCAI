@@ -64,9 +64,9 @@ The objective of this course is to help non-major students understand the core c
 
 ### [Test](https://forms.gle/vTbZEMu8UTCq2S2E8)
 
-![photo20190722](https://i.imgur.com/SXkVoc6.jpg)
-
 ### Lecturer
 - Name: [Doh Kyung-Goo](http://softopians.github.io/doggzone)
 - Email: doh@hanyang.ac.kr
 - Homepage : http://plasse.hanyang.ac.kr/~doh
+
+![photo20190722](https://i.imgur.com/SXkVoc6.jpg)
