@@ -63,7 +63,7 @@ The objective of this course is to help non-major students understand the core c
   - Summary
 
 ### Exam
-  - Final Exam
+  - [Final Exam](https://forms.gle/xs5Lx6WRGfMUd3gg8)
 
 ### Further Study
 - [Andrew Ng's Lecture : Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
