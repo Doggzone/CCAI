@@ -70,7 +70,7 @@ The objective of this course is to help non-major students understand the core c
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ### Lecturer
-- Name: [Doh Kyung-Goo](http://softopians.github.io/doggzone)
+- Name: [Doh Kyung-Goo](https://doggzone.github.io/home/)
 - Email: doh@hanyang.ac.kr
 - Homepage : https://doggzone.github.io/home/
 
