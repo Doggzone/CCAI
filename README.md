@@ -4,8 +4,8 @@ The objective of this course is to help non-major students understand the core c
 
 ### Lecture Part One
 
-#### Lecture Materials
-  - [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
+#### Lecture Material
+  - Kwangkeun Yi, [Computational Civilization](http://ropas.snu.ac.kr/~kwang/book-cs-leaflet.pdf)
 
 #### 0. [History of Computing](https://drive.google.com/file/d/1AvBNXQt1npY0UvPDEOB5ahudKjUy-dBe/view?usp=sharing)
   - Reference: Walter Isaacson, [The Innovators - How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781442376229)
